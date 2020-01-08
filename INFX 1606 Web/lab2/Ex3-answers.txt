@@ -1,0 +1,2 @@
+3.1. Width: 960; Height: 720; Aspect ratio: 960*720.
+3.2. Height would be 135
